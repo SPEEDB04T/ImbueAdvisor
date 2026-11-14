@@ -1,0 +1,10 @@
+## Interface: 16001, 16002
+## Title: Imbue Advisor
+## Notes: Works out the best Shaman weapon imbue for each hand from your gear, spec and spell tooltips.
+## Version: 1.0.0
+## SavedVariables: ImbueAdvisorDB
+## IconTexture: Interface\Icons\Spell_Nature_Cyclone
+
+Core.lua
+Calc.lua
+UI.lua
